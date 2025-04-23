@@ -1,1 +1,1 @@
-# Leet code Study
+# Leet Code Study
