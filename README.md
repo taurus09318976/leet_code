@@ -1,5 +1,3 @@
-# Leet Code Study
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Linked List
