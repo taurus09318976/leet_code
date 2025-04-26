@@ -11,6 +11,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/taurus09318976/leet_code/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/taurus09318976/leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -23,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/taurus09318976/leet_code/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/taurus09318976/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Binary Search
 |  |
@@ -36,4 +38,16 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/taurus09318976/leet_code/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/taurus09318976/leet_code/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/taurus09318976/leet_code/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/taurus09318976/leet_code/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
