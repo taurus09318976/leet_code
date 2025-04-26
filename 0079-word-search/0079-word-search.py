@@ -1,4 +1,3 @@
-# 백트래킹 방법을 사용하여 풀이함
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
         # 보드의 행과 열 수
@@ -6,16 +5,13 @@ class Solution:
         # 방문한 셀을 추적하는 집합
         visited = set()
         
-        # 깊이우선 탐색(DFS) 함수 정의
-        #r, c은 현재 셀의 행과 열, i는 현재 찾고 있는 단어의 인덱스
+        # DFS 함수 정의
         def dfs(r, c, i):
-            #기본 조건 확인
-            # 단어의 모든 문자를 찾은 경우 성공
+            # 단어의 모든 문자를 찾은 경우
             if i == len(word):
                 return True
             
-            #윺효성 검사
-            # 범위를 벗어나거나 이미 방문했거나 현재 셀의 문자가 단어의 현재 문자와 일치하지 않는 경우
+            # 범위를 벗어나거나 이미 방문했거나 문자가 일치하지 않는 경우
             if (r < 0 or c < 0 or 
                 r >= rows or c >= cols or 
                 (r, c) in visited or 
@@ -32,7 +28,6 @@ class Solution:
                      dfs(r, c - 1, i + 1))    # 왼쪽
             
             # 백트래킹: 현재 셀을 방문하지 않은 것으로 표시
-            #현재 경로가 실패했으므로 방문 표시 제거
             visited.remove((r, c))
             
             return result
@@ -44,6 +39,8 @@ class Solution:
                     return True
         
         return False
+        
+
 
         #시간 복잡도 (Time Complexity): O(m * n * 4^L)
             #m: 보드의 행 수
