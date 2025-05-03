@@ -1,38 +1,41 @@
 '''
-
 이 문제는 문자열을 효율적으로 저장하고 검색하는 트리 구조임 (예 : 자동완성 기능)
 주요 기능 : 단어 추가(insert), 단어 검색(search), 접두사 확인(startsWith)
 
 Example 1.의 단계별 동작
-입력: ["apple", "app"]
 
-트라이 생성: 빈 루트 노드 생성
+메서드 호출 순서 리스트	        인자 리스트	            실제 호출 예시
+"Trie"	                   []	                Trie()          -> 빈 트라이를 만듬. 루트 노드가 생성되고, 아무 문자도 저장되어 있지 않음
+"insert"	               ["apple"]	        insert("apple") -> 'a' 노드가 없으면 새로 만들고 이동
+                                                                -> 'p' 노드가 없으면 새로 만들고 이동
+                                                                -> 또 'p' 노드가 없으면 새로 만들고 이동
+                                                                -> 'l' 노드가 없으면 새로 만들고 이동
+                                                                -> 'e' 노드가 없으면 새로 만들고 이동
+                                                                -> 마지막 'e' 노드에 is_end = True 표시 (여기까지가 "apple"이라는 단어임을 뜻함)
 
-insert("apple"):
-루트 → 'a' → 'p' → 'p' → 'l' → 'e' (e.is_end = True)
+"search"	               ["apple"]	        search("apple") -> 루트부터 'a' → 'p' → 'p' → 'l' → 'e' 노드까지 차례로 이동
+                                                                -> 마지막 'e' 노드가 is_end = True 이므로 True 반환
 
-search("apple"):
-e 노드의 is_end가 True → True
+"search"	               ["app"]	            search("app")   -> 루트부터 'a' → 'p' → 'p' 노드까지 이동
+                                                                -> 'p' 노드의 is_end 값이 False (아직 "app"이라는 단어가 완성되지 않았음)
+                                                                -> 따라서 False 반환
+"startsWith"	           ["app"]	            startsWith("app") -> 루트부터 'a' → 'p' → 'p' 노드까지 이동
+                                                                  -> 노드가 존재하므로 True 반환 (접두사는 존재함)
 
-search("app"):
-'p' 노드의 is_end가 False → False
+"insert"	               ["app"]	            insert("app")     -> 루트부터 'a' → 'p' → 'p' 노드까지 이미 존재하므로 새 노드 생성 안 함
+                                                                  -> 마지막 'p' 노드에 is_end = True 표시 (이제 "app"도 완성된 단어임)
 
-startsWith("app"):
-'p' 노드까지 존재 → True
+"search"	               ["app"]	            search("app")     -> 루트부터 'a' → 'p' → 'p' 노드까지 이동
+                                                                  -> 마지막 'p' 노드가 is_end = True 이므로 True 반환
 
-insert("app"):
-'p' 노드의 is_end를 True로 변경
+<트라이 구조> 
 
-search("app"):
-'p' 노드의 is_end가 True → True
-
-
-루트  
-└── 'a'  
-    └── 'p'  
-        └── 'p' (is_end=True)  
-            └── 'l'  
-                └── 'e' (is_end=True)
+루트
+ └─ 'a'
+     └─ 'p'
+         └─ 'p' (is_end=True)  ← "app"
+             └─ 'l'
+                 └─ 'e' (is_end=True)  ← "apple"
 
 
 '''
