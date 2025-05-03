@@ -28,6 +28,7 @@
 | [0049-group-anagrams](https://github.com/taurus09318976/leet_code/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/taurus09318976/leet_code/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taurus09318976/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/taurus09318976/leet_code/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/taurus09318976/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0322-coin-change](https://github.com/taurus09318976/leet_code/tree/master/0322-coin-change) |
 ## Binary Search
@@ -47,6 +48,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/taurus09318976/leet_code/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/taurus09318976/leet_code/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/taurus09318976/leet_code/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/taurus09318976/leet_code/tree/master/0208-implement-trie-prefix-tree) |
 ## Backtracking
 |  |
@@ -60,11 +62,13 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taurus09318976/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/taurus09318976/leet_code/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/taurus09318976/leet_code/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/taurus09318976/leet_code/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/taurus09318976/leet_code/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/taurus09318976/leet_code/tree/master/0208-implement-trie-prefix-tree) |
 ## Sorting
 |  |
@@ -77,5 +81,10 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/taurus09318976/leet_code/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/taurus09318976/leet_code/tree/master/0208-implement-trie-prefix-tree) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/taurus09318976/leet_code/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
