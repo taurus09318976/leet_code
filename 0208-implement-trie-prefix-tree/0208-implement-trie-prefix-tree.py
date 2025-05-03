@@ -24,6 +24,7 @@ Example 1.의 단계별 동작
 
 "insert"	               ["app"]	            insert("app")     -> 루트부터 'a' → 'p' → 'p' 노드까지 이미 존재하므로 새 노드 생성 안 함
                                                                   -> 마지막 'p' 노드에 is_end = True 표시 (이제 "app"도 완성된 단어임)
+                                                                  -> "app"은 처음에 is_end=False였기 때문에 검색 시 False가 나왔고, 삽입 후 True가 됨
 
 "search"	               ["app"]	            search("app")     -> 루트부터 'a' → 'p' → 'p' 노드까지 이동
                                                                   -> 마지막 'p' 노드가 is_end = True 이므로 True 반환
