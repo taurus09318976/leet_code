@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/taurus09318976/leet_code/tree/master/0079-word-search) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/taurus09318976/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/taurus09318976/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0322-coin-change](https://github.com/taurus09318976/leet_code/tree/master/0322-coin-change) |
 ## Binary Search
@@ -55,5 +56,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/taurus09318976/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/taurus09318976/leet_code/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
