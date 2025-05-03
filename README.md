@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/taurus09318976/leet_code/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/taurus09318976/leet_code/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taurus09318976/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/taurus09318976/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -44,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/taurus09318976/leet_code/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/taurus09318976/leet_code/tree/master/0079-word-search) |
 ## Backtracking
 |  |
@@ -58,4 +60,12 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taurus09318976/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/taurus09318976/leet_code/tree/master/0322-coin-change) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/taurus09318976/leet_code/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/taurus09318976/leet_code/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
