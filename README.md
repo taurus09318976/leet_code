@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/taurus09318976/leet_code/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/taurus09318976/leet_code/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/taurus09318976/leet_code/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taurus09318976/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -92,4 +93,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/taurus09318976/leet_code/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/taurus09318976/leet_code/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/taurus09318976/leet_code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
