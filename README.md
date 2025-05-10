@@ -13,6 +13,7 @@
 | ------- |
 | [0079-word-search](https://github.com/taurus09318976/leet_code/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/taurus09318976/leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/taurus09318976/leet_code/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0079-word-search](https://github.com/taurus09318976/leet_code/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/taurus09318976/leet_code/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/taurus09318976/leet_code/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/taurus09318976/leet_code/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Backtracking
 |  |
 | ------- |
@@ -80,11 +82,13 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/taurus09318976/leet_code/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/taurus09318976/leet_code/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Trie
 |  |
 | ------- |
 | [0139-word-break](https://github.com/taurus09318976/leet_code/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/taurus09318976/leet_code/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/taurus09318976/leet_code/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Memoization
 |  |
 | ------- |
