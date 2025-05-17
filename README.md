@@ -13,11 +13,13 @@
 | ------- |
 | [0079-word-search](https://github.com/taurus09318976/leet_code/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/taurus09318976/leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/taurus09318976/leet_code/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/taurus09318976/leet_code/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/taurus09318976/leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/taurus09318976/leet_code/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/taurus09318976/leet_code/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
@@ -34,6 +36,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taurus09318976/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/taurus09318976/leet_code/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/taurus09318976/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/taurus09318976/leet_code/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/taurus09318976/leet_code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/taurus09318976/leet_code/tree/master/0322-coin-change) |
 ## Binary Search
@@ -70,6 +73,7 @@
 | [0054-spiral-matrix](https://github.com/taurus09318976/leet_code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/taurus09318976/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/taurus09318976/leet_code/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/taurus09318976/leet_code/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,4 +132,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/taurus09318976/leet_code/tree/master/0062-unique-paths) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/taurus09318976/leet_code/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
