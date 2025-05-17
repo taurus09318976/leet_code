@@ -69,6 +69,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/taurus09318976/leet_code/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/taurus09318976/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/taurus09318976/leet_code/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/taurus09318976/leet_code/tree/master/0300-longest-increasing-subsequence) |
@@ -114,4 +115,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/taurus09318976/leet_code/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/taurus09318976/leet_code/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/taurus09318976/leet_code/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
