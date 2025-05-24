@@ -65,6 +65,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/taurus09318976/leet_code/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/taurus09318976/leet_code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0647-palindromic-substrings](https://github.com/taurus09318976/leet_code/tree/master/0647-palindromic-substrings) |
+| [1250-longest-common-subsequence](https://github.com/taurus09318976/leet_code/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/taurus09318976/leet_code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/taurus09318976/leet_code/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/taurus09318976/leet_code/tree/master/0647-palindromic-substrings) |
+| [1250-longest-common-subsequence](https://github.com/taurus09318976/leet_code/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
 |  |
 | ------- |
