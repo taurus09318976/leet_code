@@ -41,7 +41,7 @@ class Solution:
             # 현재 숫자가 음수일 경우를 대비해 max와 min을 임시 저장
             temp_max = current_max
             
-            # 새로운 최대값 계산: 
+            # 새로운 최대값 계산: 최대값과 최소값 모두 아래의 3개 중에서 나올 수 있음
             # num : 현재 숫자부터 새로 시작
             # temp_max * num : 현재숫자 × 이전최대값
             # current_min * num : 현재숫자 × 이전최소값(음수*음수=양수 가능성 떄문에)
