@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/taurus09318976/leet_code/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/taurus09318976/leet_code/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/taurus09318976/leet_code/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -94,6 +95,7 @@
 | [0049-group-anagrams](https://github.com/taurus09318976/leet_code/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/taurus09318976/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/taurus09318976/leet_code/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/taurus09318976/leet_code/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/taurus09318976/leet_code/tree/master/0208-implement-trie-prefix-tree) |
 ## Sorting
 |  |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/taurus09318976/leet_code/tree/master/0011-container-with-most-water) |
+| [0141-linked-list-cycle](https://github.com/taurus09318976/leet_code/tree/master/0141-linked-list-cycle) |
 | [0647-palindromic-substrings](https://github.com/taurus09318976/leet_code/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
