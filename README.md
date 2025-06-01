@@ -70,6 +70,7 @@
 | [0139-word-break](https://github.com/taurus09318976/leet_code/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/taurus09318976/leet_code/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/taurus09318976/leet_code/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0424-longest-repeating-character-replacement](https://github.com/taurus09318976/leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/taurus09318976/leet_code/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/taurus09318976/leet_code/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
@@ -105,6 +106,7 @@
 | [0139-word-break](https://github.com/taurus09318976/leet_code/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/taurus09318976/leet_code/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/taurus09318976/leet_code/tree/master/0208-implement-trie-prefix-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/taurus09318976/leet_code/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/taurus09318976/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/taurus09318976/leet_code/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/taurus09318976/leet_code/tree/master/0424-longest-repeating-character-replacement) |
 ## Bit Manipulation
 |  |
 | ------- |
