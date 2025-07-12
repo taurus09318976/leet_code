@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/taurus09318976/leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/taurus09318976/leet_code/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0200-number-of-islands](https://github.com/taurus09318976/leet_code/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/taurus09318976/leet_code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0417-pacific-atlantic-water-flow](https://github.com/taurus09318976/leet_code/tree/master/0417-pacific-atlantic-water-flow) |
+| [0572-subtree-of-another-tree](https://github.com/taurus09318976/leet_code/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -29,6 +31,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/taurus09318976/leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/taurus09318976/leet_code/tree/master/0572-subtree-of-another-tree) |
 ## Array
 |  |
 | ------- |
@@ -179,4 +182,12 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/taurus09318976/leet_code/tree/master/0133-clone-graph) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/taurus09318976/leet_code/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/taurus09318976/leet_code/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
