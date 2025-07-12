@@ -53,29 +53,32 @@
 - 배열 슬라이싱 범위 조심하기
 - 빈 배열일 때 None 반환하기
 - inorder에서 루트 위치 정확히 찾기
+
 """
+
+
 class Solution:
     def buildTree(self, preorder, inorder):
-        # 기본 케이스: 빈 배열이면 None 반환
+        # 1. 기본 케이스: 빈 배열이면 None 반환
         if not preorder or not inorder:
             return None
         
-        # 1단계: preorder의 첫 번째가 루트
+        # 2. preorder의 첫 번째가 루트
         root_val = preorder[0]
         root = TreeNode(root_val)
         
-        # 2단계: inorder에서 루트 위치 찾기
+        # 3. inorder에서 루트 위치 찾기
         root_index = inorder.index(root_val)
         
-        # 3단계: inorder를 루트 기준으로 분할
+        # 4. inorder를 루트 기준으로 분할
         left_inorder = inorder[:root_index]
         right_inorder = inorder[root_index + 1:]
         
-        # 4단계: preorder도 해당 크기만큼 분할
+        # 5. preorder도 해당 크기만큼 분할
         left_preorder = preorder[1:1 + len(left_inorder)]
         right_preorder = preorder[1 + len(left_inorder):]
         
-        # 5단계: 재귀적으로 왼쪽과 오른쪽 서브트리 구성
+        # 6. 재귀적으로 왼쪽과 오른쪽 서브트리 구성
         root.left = self.buildTree(left_preorder, left_inorder)
         root.right = self.buildTree(right_preorder, right_inorder)
         
